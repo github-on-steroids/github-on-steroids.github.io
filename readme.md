@@ -7,6 +7,7 @@ Since all fellows and mentors get into long discussions on github, work on wikis
 We plan to create a webapp so that different fellows (who have write access to the repository, done via github auth and api) can edit a single large text(wiki) at the same time, to fixup the error of "document has been updated since you last visited it" error.
 
 Index:
-- Read the installation instructions here: [[installation.md]]
-- Read the workflow of the application [[workflow.md]]
-- Read details about feature implementation 
+- Read the installation instructions here: [installation instructions](installation.md)
+- Read the workflow of the application [workflow](workflow.md)
+- Read details about feature implementation  [features.md](features.md)
+
